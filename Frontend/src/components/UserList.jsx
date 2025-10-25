@@ -27,7 +27,7 @@ function UserList({ users, onEdit, onDelete, onView, onSort, sortConfig }) {
 
   return (
     <>
-      <h2 className="text-2xl font-semibold text-gray-700 mb-4">Employee List</h2>
+      <h2 className="text-2xl font-semibold text-gray-700 mb-4 pl-5 p-2">Employee List</h2>
       <div className="overflow-x-auto">
         <table className="w-full min-w-max border-collapse text-left">
           <thead>
