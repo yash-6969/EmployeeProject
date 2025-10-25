@@ -2,8 +2,7 @@
 
 A full-stack React and Node.js application for managing employee records with complete CRUD (Create, Read, Update, Delete) functionality, authentication, and a modern, responsive user interface.
 
-![Employee Dashboard Screenshot](https://i.imgur.com/v8S1C8m.png) 
-*(**Note:** You should replace this with a real screenshot of your application!)*
+
 
 ## 📋 Table of Contents
 
